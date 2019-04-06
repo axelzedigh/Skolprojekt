@@ -1,0 +1,17 @@
+Analys.md
+L06-1.py
+L06-test.py
+README.md
+merge.py
+sang-artist-data.txt
+sang100000rader.txt
+sang10000rader.txt
+sang1000rader.txt
+sang500rader.txt
+sang50rader.txt
+testresultat.txt
+unique100000rader.txt
+unique10000rader.txt
+unique1000rader.txt
+unique500rader.txt
+unique_tracks.txt
